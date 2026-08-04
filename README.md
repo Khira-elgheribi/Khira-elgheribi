@@ -1,10 +1,10 @@
 ## Hi, I'm Khira 👋
 
-💻 Student at 42  
+💻 Devoloper
 🚀 Passionate about Software Engineering and Problem Solving  
 
 ## 📚 About me
-I am currently a student at 42, working through the Common Core curriculum.
+I was student at 42 Abu Dhabi where I discovered my passion of the development, working through the Common Core curriculum.
 
 ## 📂 Projects
 Here are some of the projects I have completed as part of my 42 curriculum:
@@ -14,11 +14,12 @@ Here are some of the projects I have completed as part of my 42 curriculum:
 - push_swap → Sorting algorithm project  
 - libft → Custom C standard library  
 
+
 ## 🛠 Skills
 - C
 - Algorithms & Data Structures  
 - Memory Management  
-- Debugging  
+- Debugging
 
 
 <!--

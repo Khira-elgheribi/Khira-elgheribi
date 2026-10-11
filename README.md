@@ -1,6 +1,6 @@
 ## Hi, I'm Khira 👋
 
-💻 Devoloper
+💻 Student of development
 🚀 Passionate about Software Engineering and Problem Solving  
 
 ## 📚 About me
